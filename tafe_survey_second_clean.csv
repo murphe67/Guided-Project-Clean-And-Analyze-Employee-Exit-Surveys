@@ -1,0 +1,381 @@
+id,institute,workarea,cease_date,separation_type,career_move_to_public_sector,career_move_to_private_sector,career_move_to_self_employed,ill_health,maternity/family,dissatisfaction,other,none_of_the_above,gender,age,employment_status,position,institute_service,study/travel
+6.34146578511788e+17,TAFE,Delivery (teaching),2010,Resignation,False,True,False,False,False,False,False,False,Male,41-45,Permanent Full-time,Teacher (including LVT),Experienced,False
+6.34147506906311e+17,TAFE,Delivery (teaching),2010,Resignation,False,False,False,False,False,False,True,False,Female,56-60,Casual,Teacher (including LVT),Established,False
+6.34152007975694e+17,TAFE,Non-Delivery (corporate),2010,Resignation,False,True,False,False,True,False,True,False,Male,20 or younger,Temporary Full-time,Administration (AO),Experienced,False
+6.34153745310374e+17,TAFE,Delivery (teaching),2010,Resignation,False,False,False,False,False,False,True,False,Male,46-50,Permanent Full-time,Teacher (including LVT),Experienced,False
+6.34157899735969e+17,TAFE,Delivery (teaching),2009,Resignation,False,False,False,False,False,False,True,False,Female,36-40,Temporary Full-time,Tutor,Experienced,False
+6.34158812168312e+17,TAFE,Non-Delivery (corporate),2010,Resignation,True,False,False,False,False,False,True,False,Female,21-25,Permanent Full-time,Administration (AO),New,False
+6.34158825838625e+17,TAFE,Non-Delivery (corporate),2010,Resignation,True,False,False,False,False,False,False,False,Female,41-45,Temporary Part-time,Administration (AO),New,False
+6.3417252283144e+17,TAFE,Non-Delivery (corporate),2010,Resignation,False,True,False,False,False,False,False,False,Female,31-35,Temporary Full-time,Administration (AO),Veteran,False
+6.34172609223344e+17,TAFE,Delivery (teaching),2010,Resignation,False,True,False,False,False,True,False,False,Female,31-35,Permanent Part-time,Teacher (including LVT),Established,False
+6.34176076134409e+17,TAFE,Non-Delivery (corporate),2010,Resignation,False,False,False,False,False,False,True,False,Female,46-50,Permanent Part-time,Technical Officer (TO),Veteran,False
+6.34177053480062e+17,TAFE,Non-Delivery (corporate),2010,Resignation,True,False,False,False,False,True,False,False,Female,31-35,Permanent Full-time,Administration (AO),Established,False
+6.34184748867652e+17,TAFE,Non-Delivery (corporate),2010,Resignation,True,False,False,False,False,False,True,False,Male,26-30,Temporary Full-time,Administration (AO),Experienced,False
+6.34190678592028e+17,TAFE,Non-Delivery (corporate),2010,Resignation,False,False,False,False,False,False,False,False,Female,26-30,Casual,Administration (AO),New,False
+6.34190743855375e+17,TAFE,Delivery (teaching),2010,Resignation,False,True,False,False,False,False,False,False,Female,31-35,Permanent Part-time,Teacher (including LVT),Established,False
+6.34193458894281e+17,TAFE,Non-Delivery (corporate),2010,Resignation,True,False,False,False,False,False,False,False,Male,56-60,Temporary Full-time,Administration (AO),Veteran,False
+6.341993935285e+17,TAFE,Non-Delivery (corporate),2010,Resignation,False,True,False,False,False,False,False,False,Female,31-35,Temporary Full-time,Administration (AO),New,False
+6.34200229589215e+17,TAFE,Non-Delivery (corporate),2010,Resignation,False,True,False,False,False,False,False,False,Female,46-50,Temporary Part-time,Professional Officer (PO),New,False
+6.34201997218101e+17,TAFE,Delivery (teaching),2010,Retirement,False,False,False,False,False,False,False,True,Male,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34205577322164e+17,TAFE,Delivery (teaching),2010,Retirement,False,False,True,False,False,False,False,False,Female,56-60,Permanent Part-time,Teacher (including LVT),Veteran,False
+6.34208993864195e+17,TAFE,Non-Delivery (corporate),2010,Resignation,False,False,False,False,False,True,False,False,Female,26-30,Temporary Part-time,Administration (AO),New,False
+6.34209003247164e+17,TAFE,Delivery (teaching),2010,Resignation,False,False,True,False,False,False,False,False,Female,36-40,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34209012525289e+17,TAFE,Delivery (teaching),2010,Resignation,False,False,True,False,False,False,False,False,Male,31-35,Permanent Full-time,Teacher (including LVT),Experienced,False
+6.34209027931539e+17,TAFE,Delivery (teaching),2010,Resignation,True,True,False,False,False,False,True,False,Male,51-55,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34209037420601e+17,TAFE,Delivery (teaching),2010,Resignation,False,False,False,False,False,False,True,False,Female,56-60,Permanent Part-time,Teacher (including LVT),Veteran,False
+6.34211542757094e+17,TAFE,Delivery (teaching),2010,Resignation,False,True,False,False,False,True,False,False,Male,31-35,Permanent Full-time,Teacher (including LVT),New,False
+6.34212412239976e+17,TAFE,Non-Delivery (corporate),2010,Transfer,True,False,False,False,True,True,False,False,Female,31-35,Permanent Part-time,Administration (AO),Established,False
+6.3421319649857e+17,TAFE,Non-Delivery (corporate),2010,Resignation,False,True,False,False,False,False,False,False,Male,56-60,Permanent Full-time,Administration (AO),Experienced,False
+6.34214156864906e+17,TAFE,Non-Delivery (corporate),2010,Resignation,False,True,False,False,False,True,False,False,Female,41-45,Permanent Full-time,Administration (AO),Experienced,False
+6.34218492665219e+17,TAFE,Non-Delivery (corporate),2010,Resignation,False,True,False,False,False,False,False,False,Female,31-35,Temporary Full-time,Administration (AO),New,False
+6.34219251646781e+17,TAFE,Non-Delivery (corporate),2010,Resignation,False,True,False,False,False,False,False,False,Female,26-30,Temporary Full-time,Administration (AO),Experienced,False
+6.34219274566469e+17,TAFE,Non-Delivery (corporate),2010,Resignation,False,False,False,False,False,True,False,False,Female,56-60,Permanent Full-time,Administration (AO),Experienced,False
+6.34219407445375e+17,TAFE,Non-Delivery (corporate),2010,Retirement,False,False,False,False,False,False,True,False,Female,56-60,Permanent Full-time,Administration (AO),Experienced,False
+6.34220006275757e+17,TAFE,Non-Delivery (corporate),2009,Resignation,False,False,False,False,False,False,True,False,Male,51-55,Permanent Full-time,Operational (OO),Experienced,False
+6.34220145175757e+17,TAFE,Non-Delivery (corporate),2010,Resignation,False,False,False,False,False,True,False,False,Male,46-50,Permanent Full-time,Operational (OO),Veteran,False
+6.34221044292008e+17,TAFE,Non-Delivery (corporate),2010,Resignation,False,False,False,False,False,True,True,False,Female,21-25,Permanent Full-time,Administration (AO),New,False
+6.34223513490601e+17,TAFE,Non-Delivery (corporate),2010,Resignation,False,False,False,False,True,False,False,False,Female,31-35,Temporary Full-time,Administration (AO),New,False
+6.34226171903257e+17,TAFE,Delivery (teaching),2010,Resignation,False,True,False,False,False,False,False,False,Male,51-55,Permanent Full-time,Teacher (including LVT),Experienced,False
+6.34227157286851e+17,TAFE,Non-Delivery (corporate),2010,Transfer,False,False,False,False,False,True,False,False,Female,51-55,Permanent Full-time,Administration (AO),Experienced,False
+6.3422718506975e+17,TAFE,Non-Delivery (corporate),2010,Resignation,True,False,False,False,False,True,False,False,Female,36-40,Permanent Full-time,Professional Officer (PO),Established,False
+6.34227207368969e+17,TAFE,Non-Delivery (corporate),2010,Resignation,False,False,False,False,False,False,True,False,Female,51-55,Permanent Full-time,Administration (AO),Experienced,False
+6.34231466668883e+17,TAFE,Non-Delivery (corporate),2010,Resignation,False,False,False,False,False,True,False,False,Female,20 or younger,Temporary Full-time,Administration (AO),New,False
+6.34235863003594e+17,TAFE,Delivery (teaching),2010,Transfer,True,False,False,False,False,False,False,False,Female,51-55,Temporary Full-time,Teacher (including LVT),Experienced,False
+6.342393039825e+17,TAFE,Non-Delivery (corporate),2010,Transfer,False,False,False,True,False,False,False,False,Female,31-35,Temporary Full-time,Administration (AO),New,False
+6.34241795347656e+17,TAFE,Delivery (teaching),2010,Resignation,False,False,False,False,False,True,False,False,Male,41-45,Casual,Teacher (including LVT),New,False
+6.34243628858726e+17,TAFE,Non-Delivery (corporate),2010,Resignation,False,False,False,False,False,False,True,False,Female,46-50,Permanent Full-time,Administration (AO),Established,False
+6.34243664081406e+17,TAFE,Delivery (teaching),2010,Resignation,False,False,False,False,True,False,False,False,Male,41-45,Temporary Part-time,Teacher (including LVT),Experienced,False
+6.34245133689063e+17,TAFE,Non-Delivery (corporate),2010,Resignation,False,False,False,False,False,False,False,True,Female,41-45,Permanent Full-time,Administration (AO),Experienced,False
+6.34250409172945e+17,TAFE,Delivery (teaching),2010,Resignation,False,False,False,False,True,False,False,False,Female,56-60,Casual,Teacher (including LVT),Experienced,False
+6.34251116016226e+17,TAFE,Non-Delivery (corporate),2010,Resignation,True,False,False,False,False,False,False,False,Female,26-30,Permanent Full-time,Administration (AO),Established,False
+6.34251290130132e+17,TAFE,Non-Delivery (corporate),2010,Resignation,False,True,False,True,False,True,False,False,Female,41-45,Permanent Part-time,Administration (AO),Experienced,False
+6.3425975246732e+17,TAFE,Non-Delivery (corporate),2010,Resignation,False,True,False,False,False,False,False,False,Female,31-35,Casual,Administration (AO),New,False
+6.34260719918915e+17,TAFE,Non-Delivery (corporate),2010,Resignation,True,False,False,False,False,False,False,False,Female,41-45,Temporary Full-time,Administration (AO),New,False
+6.34266938733603e+17,TAFE,Non-Delivery (corporate),2010,Resignation,True,False,False,False,False,False,False,False,Female,31-35,Permanent Full-time,Administration (AO),Veteran,False
+6.3426772590329e+17,TAFE,Delivery (teaching),2011,Resignation,False,True,False,False,False,False,False,False,Male,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34268446707283e+17,TAFE,Non-Delivery (corporate),2010,Resignation,False,True,False,False,False,True,True,False,Female,31-35,Temporary Part-time,Administration (AO),New,False
+6.34269438105095e+17,TAFE,Non-Delivery (corporate),2010,Resignation,False,False,False,False,False,True,False,False,Male,21-25,Casual,Administration (AO),New,True
+6.34272910039626e+17,TAFE,Non-Delivery (corporate),2010,Retirement,False,False,False,False,False,False,False,True,Female,56-60,Permanent Part-time,Administration (AO),Veteran,False
+6.34273756721501e+17,TAFE,Non-Delivery (corporate),2011,Resignation,True,False,False,False,False,True,False,False,Female,46-50,Permanent Full-time,Professional Officer (PO),Experienced,False
+6.34275489048845e+17,TAFE,Delivery (teaching),2010,Resignation,False,False,False,False,True,True,False,False,Female,36-40,Temporary Full-time,Teacher (including LVT),New,False
+6.34280719819371e+17,TAFE,Non-Delivery (corporate),2011,Resignation,True,False,False,False,False,False,False,False,Female,36-40,Permanent Full-time,Administration (AO),Veteran,False
+6.34281400568746e+17,TAFE,Non-Delivery (corporate),2010,Resignation,False,True,False,False,False,False,False,False,Male,41-45,Permanent Full-time,Professional Officer (PO),Experienced,False
+6.34284989401715e+17,TAFE,Non-Delivery (corporate),2010,Resignation,False,True,False,False,False,False,False,False,Male,36-40,Casual,Executive (SES/SO),New,False
+6.34285909851304e+17,TAFE,Non-Delivery (corporate),2011,Resignation,True,False,False,False,False,False,True,False,Female,26-30,Temporary Full-time,Administration (AO),New,False
+6.34298884567184e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,True,False,False,False,True,False,False,Female,26-30,Permanent Full-time,Administration (AO),Established,False
+6.34309981362554e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,False,False,False,True,Male,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34310942921246e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,False,False,False,Male,41-45,Temporary Full-time,Operational (OO),Veteran,True
+6.34314358367965e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,False,True,False,Female,31-35,Temporary Full-time,Administration (AO),New,False
+6.34316886387496e+17,TAFE,Delivery (teaching),2011,Resignation,False,True,False,False,True,False,False,False,Male,46-50,Permanent Full-time,Teacher (including LVT),Experienced,False
+6.34317688380679e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,True,False,False,False,False,False,False,Female,26-30,Permanent Full-time,Administration (AO),Experienced,True
+6.34317845042866e+17,TAFE,Non-Delivery (corporate),2011,Transfer,False,False,False,False,True,False,False,False,Female,56-60,Permanent Full-time,Teacher (including LVT),Experienced,False
+6.34322927651559e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,False,True,False,False,Male,51-55,Temporary Full-time,Teacher (including LVT),New,False
+6.3432311502146e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,False,True,False,False,Male,51-55,Temporary Full-time,Teacher (including LVT),New,False
+6.34323709021402e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,False,True,False,False,Male,51-55,Temporary Full-time,Teacher (including LVT),New,False
+6.34323806434371e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,True,False,False,False,False,False,False,Female,46-50,Casual,Administration (AO),Experienced,False
+6.34326352243491e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,True,False,False,False,False,True,False,Female,21-25,Temporary Full-time,Administration (AO),New,False
+6.3432645414859e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,True,False,False,True,False,Female,41-45,Temporary Part-time,Operational (OO),New,False
+6.34328087765991e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,True,False,False,False,False,Female,51-55,Temporary Part-time,Operational (OO),New,False
+6.34328171329844e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,False,False,False,Female,36-40,Temporary Full-time,Administration (AO),Experienced,True
+6.34328202850835e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,False,True,False,False,Female,51-55,Temporary Full-time,Teacher (including LVT),Experienced,False
+6.34329804601719e+17,TAFE,Delivery (teaching),2011,Resignation,False,True,False,False,False,False,False,False,Male,46-50,Permanent Full-time,Teacher (including LVT),Experienced,False
+6.34329959592554e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,False,False,False,Male,21-25,Permanent Full-time,Administration (AO),Experienced,True
+6.34333408714687e+17,TAFE,Non-Delivery (corporate),2011,Transfer,True,False,False,False,False,False,False,False,Female,51-55,Permanent Full-time,Professional Officer (PO),Veteran,False
+6.34340388349585e+17,TAFE,Non-Delivery (corporate),2011,Retirement,False,False,False,True,False,True,False,False,Female,51-55,Permanent Full-time,Administration (AO),Veteran,False
+6.34344511160937e+17,TAFE,Delivery (teaching),2011,Retirement,False,False,False,False,False,True,False,False,Male,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34346271723281e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,True,False,False,False,False,False,Male,31-35,Temporary Full-time,Administration (AO),New,False
+6.34352308949688e+17,TAFE,Delivery (teaching),2011,Retirement,False,False,True,False,False,False,False,False,Male,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34353285189063e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,True,True,False,False,False,False,False,Female,26-30,Temporary Full-time,Administration (AO),New,True
+6.34356555160312e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,False,False,True,False,Female,51-55,Permanent Full-time,Teacher (including LVT),New,False
+6.34356560392188e+17,TAFE,Delivery (teaching),2011,Resignation,False,True,False,False,False,False,False,False,Female,36-40,Permanent Part-time,Teacher (including LVT),Experienced,False
+6.34356641434062e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,False,False,True,False,Male,56-60,Casual,Workplace Training Officer,New,False
+6.34356731460781e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,True,False,False,False,False,False,False,Female,21-25,Temporary Part-time,Administration (AO),New,False
+6.34358247777344e+17,TAFE,Non-Delivery (corporate),2011,Resignation,True,False,False,False,False,False,False,False,Male,20 or younger,Temporary Full-time,Administration (AO),New,False
+6.34358731384062e+17,TAFE,Delivery (teaching),2011,Retirement,False,False,False,False,False,True,False,False,Male,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34360008438438e+17,TAFE,Delivery (teaching),2011,Retirement,False,False,True,False,False,True,False,False,Male,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34362639709063e+17,TAFE,Non-Delivery (corporate),2011,Retirement,False,False,False,True,True,False,False,False,Female,56-60,Permanent Full-time,Administration (AO),Established,False
+6.34365142728281e+17,TAFE,Non-Delivery (corporate),2011,Resignation,True,False,False,False,False,True,False,False,Female,21-25,Casual,Technical Officer (TO),New,True
+6.3436545961125e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,False,False,True,False,Female,41-45,Temporary Part-time,Teacher (including LVT),New,False
+6.34366032016094e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,False,True,False,Female,20 or younger,Temporary Full-time,Administration (AO),New,False
+6.34370483668125e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,False,True,False,False,Female,51-55,Permanent Part-time,Teacher (including LVT),Veteran,False
+6.34372114428281e+17,TAFE,Non-Delivery (corporate),2011,Retirement,False,False,False,False,False,True,False,False,Male,56-60,Permanent Full-time,Administration (AO),Veteran,False
+6.34376433396563e+17,TAFE,Non-Delivery (corporate),2011,Resignation,True,False,False,False,False,False,False,False,Female,41-45,Casual,Technical Officer (TO),Experienced,False
+6.34377507269688e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,False,False,True,False,Female,51-55,Temporary Part-time,Teacher (including LVT),New,False
+6.34383335357969e+17,TAFE,Delivery (teaching),2011,Retirement,False,False,False,False,False,False,False,False,Male,56-60,Permanent Full-time,Teacher (including LVT),New,True
+6.34388661685e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,True,False,False,False,False,False,False,Female,46-50,Temporary Full-time,Administration (AO),New,False
+6.34389476488906e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,False,False,True,Female,21-25,Permanent Full-time,Administration (AO),Experienced,False
+6.3439543481625e+17,TAFE,Non-Delivery (corporate),2011,Resignation,True,False,False,False,False,False,False,False,Male,21-25,Permanent Part-time,Operational (OO),New,False
+6.34395453810469e+17,TAFE,Delivery (teaching),2011,Retirement,False,False,False,False,False,False,False,True,Female,56-60,Permanent Part-time,Teacher (including LVT),Veteran,False
+6.34399738233281e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,False,True,False,Female,21-25,Permanent Part-time,Administration (AO),Experienced,False
+6.34407548427969e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,False,True,False,Female,31-35,Temporary Part-time,Administration (AO),Experienced,False
+6.34411016475156e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,True,False,False,False,True,False,False,Female,21-25,Permanent Full-time,Administration (AO),Experienced,False
+6.34412849002344e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,True,False,False,Male,41-45,Permanent Full-time,Operational (OO),Experienced,False
+6.34417864506406e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,True,False,False,Female,46-50,Temporary Full-time,Administration (AO),New,False
+6.34418043788438e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,False,True,False,False,Female,26-30,Temporary Full-time,Teacher (including LVT),New,False
+6.34419660420156e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,True,False,False,False,True,False,False,Male,46-50,Temporary Full-time,Executive (SES/SO),New,False
+6.34419812329531e+17,TAFE,Delivery (teaching),2011,Resignation,False,True,False,False,False,False,False,False,Male,46-50,Permanent Full-time,Teacher (including LVT),New,False
+6.34423305341562e+17,TAFE,Delivery (teaching),2011,Retirement,False,False,False,False,True,False,False,False,Female,56-60,Permanent Part-time,Tutor,Veteran,False
+6.344250437875e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,True,False,False,False,Female,46-50,Casual,Administration (AO),Experienced,False
+6.34429978393906e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,False,True,False,Female,41-45,Temporary Full-time,Administration (AO),New,False
+6.34430196933125e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,False,False,False,True,Female,36-40,Permanent Full-time,Teacher (including LVT),New,False
+6.34431906734219e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,True,False,False,False,False,False,False,Male,36-40,Permanent Full-time,Administration (AO),Experienced,False
+6.34436080180469e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,True,False,False,Male,26-30,Temporary Full-time,Operational (OO),New,False
+6.34438675485469e+17,TAFE,Delivery (teaching),2011,Retirement,False,False,False,False,True,True,False,False,Female,51-55,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34443964450156e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,True,False,False,False,False,False,Male,41-45,Casual,Teacher (including LVT),New,False
+6.34444676214219e+17,TAFE,Non-Delivery (corporate),2011,Resignation,True,False,False,False,False,False,True,False,Female,41-45,Casual,Administration (AO),Experienced,False
+6.34454356619531e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,False,True,False,Female,21-25,Temporary Full-time,Administration (AO),New,False
+6.34455107975313e+17,TAFE,Non-Delivery (corporate),2011,Retirement,False,False,False,True,False,False,True,False,Female,56-60,Temporary Part-time,Administration (AO),Established,False
+6.34456033339688e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,False,True,False,False,Female,41-45,Casual,Teacher (including LVT),New,False
+6.34462838669219e+17,TAFE,Non-Delivery (corporate),2011,Resignation,True,False,False,False,False,False,True,False,Female,31-35,Temporary Full-time,Administration (AO),New,False
+6.34465408262031e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,True,False,False,False,True,False,False,Female,21-25,Temporary Full-time,Administration (AO),New,True
+6.34466338996094e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,True,False,False,False,Male,41-45,Temporary Full-time,Technical Officer (TO),New,False
+6.3446906019125e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,True,False,False,False,False,False,False,Male,36-40,Temporary Full-time,Executive (SES/SO),New,False
+6.34474119730625e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,False,True,False,Female,21-25,Casual,Administration (AO),New,False
+6.344801538575e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,True,False,False,False,True,False,False,Female,26-30,Temporary Full-time,Administration (AO),New,False
+6.34480996232969e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,False,True,False,False,Female,41-45,Temporary Full-time,Teacher (including LVT),Veteran,False
+6.34483759524219e+17,TAFE,Delivery (teaching),2012,Retirement,False,False,False,False,False,False,False,True,Female,56-60,Permanent Part-time,Teacher (including LVT),Experienced,False
+6.34485432981094e+17,TAFE,Non-Delivery (corporate),2011,Retirement,False,False,False,False,False,False,False,True,Female,56-60,Permanent Full-time,Operational (OO),Veteran,False
+6.3448707873875e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,True,False,True,False,Female,46-50,Permanent Full-time,Administration (AO),Experienced,False
+6.34491780096563e+17,TAFE,Non-Delivery (corporate),2011,Retirement,False,False,False,False,False,False,True,False,Female,56-60,Temporary Full-time,Administration (AO),Experienced,False
+6.34495664096406e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,True,False,False,False,False,False,False,Female,26-30,Permanent Full-time,Professional Officer (PO),Experienced,False
+6.34496573562969e+17,TAFE,Delivery (teaching),2011,Resignation,False,True,False,False,False,False,False,False,Female,51-55,Temporary Full-time,Administration (AO),New,False
+6.34497559461719e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,False,False,False,False,Male,31-35,Casual,Teacher (including LVT),New,True
+6.34498298127969e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,False,False,False,Female,20 or younger,Temporary Full-time,Administration (AO),New,True
+6.34508607117812e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,False,False,False,Male,21-25,Permanent Full-time,Administration (AO),Experienced,True
+6.34509621647969e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,False,False,False,Female,51-55,Temporary Full-time,Administration (AO),New,True
+6.34515603225e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,True,False,False,Female,36-40,Temporary Full-time,Administration (AO),New,True
+6.34517445885469e+17,TAFE,Non-Delivery (corporate),2011,Resignation,True,False,False,False,False,False,False,False,Female,41-45,Permanent Part-time,Professional Officer (PO),Veteran,False
+6.34520852160469e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,True,False,False,False,Female,51-55,Temporary Full-time,Teacher (including LVT),New,False
+6.34521642169688e+17,TAFE,Delivery (teaching),2011,Resignation,False,True,False,False,False,True,False,False,Female,21-25,Permanent Full-time,Administration (AO),Experienced,False
+6.34522371755781e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,False,True,False,Female,36-40,Temporary Full-time,Administration (AO),New,False
+6.34526057042656e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,True,False,False,False,False,False,False,Female,41-45,Temporary Part-time,Administration (AO),New,False
+6.34527641594062e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,True,False,False,Female,20 or younger,Temporary Full-time,Administration (AO),New,False
+6.34541462557656e+17,TAFE,Non-Delivery (corporate),2011,Resignation,True,False,False,False,False,False,False,False,Female,21-25,Temporary Full-time,Administration (AO),Experienced,False
+6.34549611075156e+17,TAFE,Non-Delivery (corporate),2011,Transfer,False,False,False,False,False,False,True,False,Female,36-40,Temporary Full-time,Administration (AO),New,False
+6.34550190071875e+17,TAFE,Non-Delivery (corporate),2011,Resignation,True,False,False,False,False,False,False,False,Female,51-55,Temporary Part-time,Professional Officer (PO),New,False
+6.34551070180781e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,False,True,False,False,Female,36-40,Permanent Part-time,Workplace Training Officer,Experienced,False
+6.34551832315938e+17,TAFE,Non-Delivery (corporate),2011,Transfer,False,False,False,False,False,True,False,False,Female,46-50,Permanent Full-time,Administration (AO),Experienced,False
+6.3455271177625e+17,TAFE,Delivery (teaching),2011,Retirement,False,False,False,False,False,False,False,True,Female,56-60,Permanent Full-time,Teacher (including LVT),Established,False
+6.3455287020625e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,False,True,False,Male,36-40,Permanent Full-time,Professional Officer (PO),Experienced,False
+6.34553571408906e+17,TAFE,Delivery (teaching),2011,Retirement,False,False,False,True,False,True,False,False,Male,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34556211676511e+17,TAFE,Delivery (teaching),2011,Retirement,False,False,False,False,False,False,False,True,Male,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.345562181325e+17,TAFE,Delivery (teaching),2011,Retirement,False,False,False,True,False,False,False,False,Male,56-60,Permanent Full-time,Administration (AO),Veteran,False
+6.34556300304062e+17,TAFE,Non-Delivery (corporate),2011,Resignation,True,False,False,False,False,False,False,False,Female,41-45,Permanent Full-time,Operational (OO),New,False
+6.34556943700261e+17,TAFE,Non-Delivery (corporate),2011,Retirement,False,False,False,True,False,True,False,False,Male,56-60,Permanent Full-time,Tutor,Established,False
+6.345578604725e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,True,False,False,False,False,False,False,Male,46-50,Permanent Full-time,Administration (AO),Veteran,False
+6.3455802800948e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,True,False,False,False,False,False,False,Male,26-30,Temporary Full-time,Administration (AO),New,False
+6.3455895140073e+17,TAFE,Delivery (teaching),2011,Resignation,False,True,False,False,False,False,False,False,Female,56-60,Permanent Part-time,Professional Officer (PO),Veteran,False
+6.34563904634531e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,True,False,True,False,Female,56-60,Permanent Full-time,Tutor,Experienced,False
+6.34563927869375e+17,TAFE,Non-Delivery (corporate),2011,Retirement,False,False,False,False,False,False,True,False,Female,56-60,Permanent Full-time,Administration (AO),Veteran,False
+6.34564000928438e+17,TAFE,Non-Delivery (corporate),2011,Retirement,False,False,False,False,False,True,False,False,Female,56-60,Permanent Full-time,Administration (AO),Established,False
+6.3456406360125e+17,TAFE,Delivery (teaching),2011,Retirement,False,False,False,True,False,False,False,False,Male,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34564078365469e+17,TAFE,Delivery (teaching),2011,Retirement,False,False,False,False,False,False,False,True,Male,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34564089906719e+17,TAFE,Non-Delivery (corporate),2011,Retirement,False,False,False,False,False,False,False,True,Female,51-55,Permanent Full-time,Administration (AO),Veteran,False
+6.34564737601875e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,False,True,False,False,Male,46-50,Temporary Full-time,Teacher (including LVT),New,False
+6.34565719506875e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,False,False,False,True,Male,46-50,Temporary Full-time,Tutor,New,False
+6.34568278370781e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,False,True,False,False,Male,51-55,Permanent Full-time,Teacher (including LVT),Veteran,True
+6.34568317773125e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,False,False,False,True,Male,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34568471579063e+17,TAFE,Delivery (teaching),2011,Retirement,False,False,False,False,False,False,False,True,Male,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34570247249322e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,False,False,False,False,Female,56-60,Permanent Full-time,Teacher (including LVT),Veteran,True
+6.34570821134531e+17,TAFE,Non-Delivery (corporate),2011,Transfer,True,False,False,False,False,False,False,False,Female,26-30,Temporary Full-time,Administration (AO),New,False
+6.34570842998906e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,True,True,False,Female,46-50,Permanent Full-time,Executive (SES/SO),Experienced,False
+6.34570881452188e+17,TAFE,Delivery (teaching),2011,Retirement,False,False,False,False,False,False,True,False,Male,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34574339025156e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,False,True,False,False,Male,51-55,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34574528552031e+17,TAFE,Delivery (teaching),2011,Retirement,False,False,False,False,False,False,False,False,Male,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.3457516073125e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,True,False,False,False,Male,51-55,Permanent Full-time,Teacher (including LVT),Veteran,True
+6.345754127925e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,True,False,False,Female,56-60,Permanent Part-time,Administration (AO),Veteran,False
+6.34576020012813e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,False,True,False,Female,56-60,Permanent Part-time,Professional Officer (PO),Veteran,False
+6.34576957824062e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,False,True,False,Female,56-60,Permanent Full-time,Administration (AO),Veteran,False
+6.34577056474375e+17,TAFE,Non-Delivery (corporate),2011,Resignation,True,False,False,False,False,False,False,False,Female,21-25,Permanent Full-time,Administration (AO),New,True
+6.34577068502656e+17,TAFE,Non-Delivery (corporate),2011,Retirement,False,False,False,False,False,False,True,False,Male,56-60,Permanent Full-time,Administration (AO),Experienced,False
+6.34577125839844e+17,TAFE,Delivery (teaching),2011,Retirement,False,False,False,False,False,False,True,False,Male,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34577814504531e+17,TAFE,Non-Delivery (corporate),2011,Retirement,False,False,False,False,False,False,False,True,Male,56-60,Permanent Full-time,Administration (AO),Veteran,False
+6.34577945776563e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,False,False,True,False,Female,51-55,Casual,Teacher (including LVT),Experienced,False
+6.34577978929375e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,False,True,False,Female,31-35,Temporary Part-time,Administration (AO),Experienced,False
+6.34580584676406e+17,TAFE,Non-Delivery (corporate),2011,Retirement,False,False,False,False,False,False,True,False,Female,56-60,Permanent Full-time,Executive (SES/SO),Veteran,False
+6.3458117411625e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,False,True,False,False,Male,51-55,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34581193524375e+17,TAFE,Delivery (teaching),2011,Retirement,False,True,False,False,False,True,False,False,Male,46-50,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34581287875e+17,TAFE,Delivery (teaching),2011,Retirement,False,False,False,False,False,True,False,False,Female,56-60,Permanent Part-time,Teacher (including LVT),Veteran,False
+6.3458137435375e+17,TAFE,Non-Delivery (corporate),2011,Retirement,False,False,False,False,False,False,False,True,Male,56-60,Permanent Full-time,Administration (AO),Veteran,False
+6.34582074204062e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,False,False,True,Female,26-30,Temporary Full-time,Professional Officer (PO),New,False
+6.34582107325625e+17,TAFE,Delivery (teaching),2011,Retirement,False,False,False,False,False,True,False,False,Male,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34582155813125e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,True,False,False,False,False,False,Female,46-50,Temporary Part-time,Teacher (including LVT),New,False
+6.34583834033437e+17,TAFE,Delivery (teaching),2011,Retirement,False,False,False,False,False,False,True,False,Female,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34583953717969e+17,TAFE,Non-Delivery (corporate),2011,Retirement,False,False,False,False,False,True,False,False,Female,56-60,Permanent Full-time,Administration (AO),Veteran,False
+6.34584008886406e+17,TAFE,Non-Delivery (corporate),2011,Transfer,True,False,False,False,False,True,False,False,Male,21-25,Temporary Full-time,Administration (AO),New,False
+6.34586368436563e+17,TAFE,Non-Delivery (corporate),2011,Retirement,False,False,False,False,False,False,True,False,Female,56-60,Permanent Part-time,Administration (AO),Veteran,False
+6.34589056926875e+17,TAFE,Delivery (teaching),2011,Retirement,False,False,False,False,False,False,False,True,Male,51-55,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34589153179219e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,False,False,True,False,Female,51-55,Casual,Teacher (including LVT),New,False
+6.34592549493281e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,False,True,False,Female,46-50,Temporary Part-time,Administration (AO),Experienced,False
+6.34593386107187e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,False,False,False,True,False,Female,41-45,Temporary Full-time,Administration (AO),New,False
+6.34595096448594e+17,TAFE,Non-Delivery (corporate),2011,Retirement,False,False,False,True,False,False,False,False,Female,56-60,Permanent Part-time,Administration (AO),Established,False
+6.34595867098906e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,True,False,False,False,False,False,False,Female,41-45,Temporary Full-time,Administration (AO),Experienced,False
+6.34600285342656e+17,TAFE,Non-Delivery (corporate),2011,Resignation,False,False,False,True,False,False,True,False,Female,41-45,Temporary Full-time,Administration (AO),New,False
+6.34601227926094e+17,TAFE,Non-Delivery (corporate),2012,Transfer,False,False,False,False,False,False,True,False,Female,31-35,Permanent Full-time,Administration (AO),Experienced,False
+6.34612373906875e+17,TAFE,Non-Delivery (corporate),2012,Retirement,False,False,False,False,False,False,False,True,Female,56-60,Permanent Full-time,Administration (AO),Veteran,False
+6.34617650635469e+17,TAFE,Delivery (teaching),2012,Resignation,False,False,False,False,True,True,False,False,Male,41-45,Permanent Full-time,Teacher (including LVT),Experienced,False
+6.34620112502188e+17,TAFE,Non-Delivery (corporate),2012,Transfer,False,False,False,False,False,False,False,True,Male,51-55,Permanent Full-time,Professional Officer (PO),New,False
+6.34620134299688e+17,TAFE,Non-Delivery (corporate),2012,Resignation,True,False,False,False,True,False,False,False,Female,36-40,Temporary Full-time,Administration (AO),Experienced,False
+6.34623599234844e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,True,False,False,False,False,Female,56-60,Permanent Full-time,Administration (AO),Veteran,False
+6.34625548923437e+17,TAFE,Delivery (teaching),2012,Retirement,False,False,True,False,False,False,False,False,Male,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34634833429063e+17,TAFE,Delivery (teaching),2012,Resignation,False,False,False,False,False,True,False,False,Female,31-35,Permanent Full-time,Teacher (including LVT),New,False
+6.34635009354531e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,True,False,False,False,False,False,False,Female,31-35,Temporary Part-time,Administration (AO),New,False
+6.34638198687656e+17,TAFE,Delivery (teaching),2012,Resignation,False,True,False,False,False,False,False,False,Male,36-40,Permanent Full-time,Teacher (including LVT),Established,False
+6.3463826696125e+17,TAFE,Delivery (teaching),2012,Resignation,True,False,False,False,False,True,False,False,Male,41-45,Temporary Full-time,Teacher (including LVT),New,False
+6.34638274154219e+17,TAFE,Non-Delivery (corporate),2012,Resignation,True,True,False,False,False,False,True,False,Female,26-30,Temporary Full-time,Administration (AO),New,False
+6.34638401683906e+17,TAFE,Delivery (teaching),2012,Resignation,False,False,False,False,False,True,False,False,Male,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34640883155625e+17,TAFE,Non-Delivery (corporate),2012,Retirement,False,False,False,False,False,False,False,True,Female,56-60,Permanent Part-time,Administration (AO),Veteran,False
+6.34648744738906e+17,TAFE,Delivery (teaching),2012,Resignation,True,False,False,False,False,True,False,False,Female,51-55,Temporary Full-time,Teacher (including LVT),New,False
+6.34648747047187e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,True,False,False,False,False,False,False,Male,51-55,Permanent Full-time,Workplace Training Officer,Veteran,False
+6.34650545650312e+17,TAFE,Non-Delivery (corporate),2012,Retirement,False,False,False,False,False,False,True,False,Female,56-60,Permanent Full-time,Administration (AO),Veteran,False
+6.34653126293281e+17,TAFE,Delivery (teaching),2012,Resignation,False,False,False,False,False,False,False,False,Male,26-30,Permanent Full-time,Administration (AO),Established,True
+6.34662477490156e+17,TAFE,Delivery (teaching),2012,Resignation,False,True,False,False,False,False,False,False,Female,31-35,Temporary Full-time,Workplace Training Officer,New,False
+6.34665190018906e+17,TAFE,Delivery (teaching),2012,Retirement,False,False,False,False,False,True,False,False,Male,56-60,Permanent Full-time,Teacher (including LVT),Experienced,False
+6.34666854789531e+17,TAFE,Non-Delivery (corporate),2012,Resignation,True,False,False,False,False,False,False,False,Female,41-45,Permanent Full-time,Professional Officer (PO),Veteran,False
+6.34667551458125e+17,TAFE,Non-Delivery (corporate),2012,Retirement,False,False,False,False,False,False,True,False,Female,56-60,Permanent Full-time,Administration (AO),Veteran,False
+6.34668611537031e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,False,False,False,True,False,Female,31-35,Temporary Full-time,Administration (AO),Experienced,False
+6.34671263031094e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,False,False,True,False,False,Female,26-30,Permanent Full-time,Administration (AO),Experienced,True
+6.34671297286719e+17,TAFE,Delivery (teaching),2012,Resignation,False,False,False,False,False,False,True,False,Female,51-55,Casual,Teacher (including LVT),New,False
+6.34674515660156e+17,TAFE,Delivery (teaching),2012,Resignation,False,True,True,False,False,True,False,False,Male,36-40,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34679850935469e+17,TAFE,Non-Delivery (corporate),2012,Retirement,False,False,False,False,False,False,False,True,Female,56-60,Permanent Part-time,Administration (AO),Veteran,False
+6.34683356744531e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,False,False,False,True,False,Female,20 or younger,Permanent Full-time,Administration (AO),Experienced,False
+6.34689360748125e+17,TAFE,Non-Delivery (corporate),2012,Retirement,False,False,False,False,False,False,False,False,Male,56-60,Permanent Part-time,Operational (OO),Veteran,False
+6.34691779624687e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,False,True,False,False,False,Female,21-25,Temporary Full-time,Administration (AO),New,True
+6.34696179014844e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,False,False,False,True,False,Female,26-30,Temporary Full-time,Administration (AO),Established,False
+6.34697816674062e+17,TAFE,Delivery (teaching),2012,Resignation,False,True,False,False,False,False,False,False,Female,26-30,Permanent Full-time,Administration (AO),New,False
+6.347023585025e+17,TAFE,Delivery (teaching),2011,Resignation,False,False,False,False,True,True,False,False,Male,36-40,Permanent Full-time,Teacher (including LVT),Experienced,False
+6.34702366178594e+17,TAFE,Delivery (teaching),2011,Resignation,False,True,False,False,False,True,False,False,Male,31-35,Permanent Full-time,Teacher (including LVT),Experienced,False
+6.34703091309531e+17,TAFE,Delivery (teaching),2012,Retirement,False,False,False,True,False,True,False,False,Male,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34704924682031e+17,TAFE,Delivery (teaching),2012,Retirement,False,False,False,False,False,False,False,False,Female,56-60,Permanent Part-time,Teacher (including LVT),Veteran,True
+6.34713425884844e+17,TAFE,Delivery (teaching),2012,Resignation,False,False,False,False,False,False,True,False,Female,56-60,Permanent Full-time,Workplace Training Officer,New,False
+6.34722082133437e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,False,False,False,False,False,Male,21-25,Temporary Full-time,Administration (AO),New,True
+6.34722949292074e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,False,False,True,False,False,Male,41-45,Temporary Full-time,Administration (AO),New,False
+6.34722992951406e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,True,False,False,False,True,False,False,Female,31-35,Permanent Full-time,Administration (AO),New,False
+6.34731736579172e+17,TAFE,Non-Delivery (corporate),2012,Retirement,False,False,False,False,False,False,False,True,Female,56-60,Permanent Full-time,Administration (AO),Veteran,False
+6.34734330047525e+17,TAFE,Non-Delivery (corporate),2012,Transfer,True,False,False,False,False,False,False,False,Female,36-40,Temporary Full-time,Administration (AO),New,False
+6.3474115202386e+17,TAFE,Non-Delivery (corporate),2012,Transfer,True,False,False,False,False,False,True,False,Female,41-45,Permanent Full-time,Administration (AO),Established,False
+6.34743600339485e+17,TAFE,Delivery (teaching),2012,Resignation,False,False,False,False,False,False,False,True,Male,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34747238918391e+17,TAFE,Non-Delivery (corporate),2012,Transfer,True,False,False,False,False,False,False,False,Female,51-55,Permanent Full-time,Administration (AO),Veteran,False
+6.3475061227315e+17,TAFE,Non-Delivery (corporate),2012,Resignation,True,False,False,False,False,False,False,False,Female,46-50,Temporary Full-time,Administration (AO),New,False
+6.34753321028079e+17,TAFE,Delivery (teaching),2012,Retirement,False,False,False,False,False,True,False,False,Male,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34753384952766e+17,TAFE,Delivery (teaching),2012,Resignation,True,False,False,False,False,False,False,False,Female,51-55,Temporary Full-time,Teacher (including LVT),New,False
+6.34760046003775e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,False,False,True,True,False,Female,36-40,Permanent Full-time,Administration (AO),Experienced,False
+6.34763735587969e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,True,False,False,False,False,False,False,Female,31-35,Casual,Administration (AO),New,False
+6.34768690087369e+17,TAFE,Non-Delivery (corporate),2012,Retirement,False,False,False,False,False,False,False,True,Female,56-60,Permanent Part-time,Professional Officer (PO),Veteran,False
+6.34774030826094e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,True,False,False,False,False,True,False,Female,46-50,Temporary Part-time,Professional Officer (PO),New,False
+6.34774723180937e+17,TAFE,Delivery (teaching),2012,Resignation,False,True,False,False,False,False,True,False,Male,46-50,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34775905600156e+17,TAFE,Delivery (teaching),2012,Resignation,False,True,False,False,False,True,False,False,Male,36-40,Temporary Full-time,Teacher (including LVT),New,False
+6.34776478226875e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,False,False,False,False,False,Male,21-25,Temporary Full-time,Administration (AO),New,True
+6.34779998192656e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,False,False,True,True,False,Female,36-40,Temporary Full-time,Administration (AO),New,False
+6.34781625247656e+17,TAFE,Non-Delivery (corporate),2012,Resignation,True,False,False,False,False,False,False,False,Female,21-25,Temporary Full-time,Administration (AO),New,False
+6.34781660507187e+17,TAFE,Delivery (teaching),2012,Retirement,False,False,False,False,False,False,False,True,Male,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34781843688125e+17,TAFE,Delivery (teaching),2012,Resignation,False,False,False,True,False,True,False,False,Female,51-55,Permanent Part-time,Teacher (including LVT),Experienced,False
+6.34786182825625e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,False,False,False,True,False,Female,21-25,Permanent Full-time,Administration (AO),New,False
+6.34786910427969e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,False,False,False,True,False,Female,41-45,Temporary Full-time,Administration (AO),Veteran,False
+6.3478773004125e+17,TAFE,Non-Delivery (corporate),2012,Transfer,True,False,False,False,False,True,False,False,Female,26-30,Temporary Full-time,Administration (AO),New,False
+6.34788542900625e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,False,True,False,False,False,Male,31-35,Temporary Full-time,Administration (AO),New,False
+6.34789421680312e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,True,False,False,False,True,False,False,Female,41-45,Permanent Full-time,Administration (AO),Experienced,False
+6.34792964190156e+17,TAFE,Non-Delivery (corporate),2012,Transfer,True,False,False,False,False,False,False,False,Female,51-55,Permanent Full-time,Administration (AO),Veteran,False
+6.34793871139219e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,False,False,False,False,True,Female,21-25,Casual,Administration (AO),Experienced,False
+6.34794639635781e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,True,False,False,False,False,False,False,Female,21-25,Temporary Full-time,Administration (AO),New,False
+6.34794857718438e+17,TAFE,Delivery (teaching),2012,Resignation,False,False,False,False,False,True,False,False,Male,56-60,Permanent Part-time,Teacher (including LVT),New,False
+6.34799770843437e+17,TAFE,Delivery (teaching),2012,Resignation,False,False,False,True,False,True,False,False,Female,46-50,Temporary Full-time,Teacher (including LVT),New,False
+6.3480076201625e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,False,False,False,True,False,Male,26-30,Temporary Full-time,Administration (AO),Experienced,False
+6.34806706577344e+17,TAFE,Non-Delivery (corporate),2012,Retirement,False,False,False,False,False,True,False,False,Male,56-60,Permanent Full-time,Operational (OO),Veteran,False
+6.34807637421719e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,False,False,True,False,False,Female,46-50,Permanent Full-time,Administration (AO),Established,False
+6.348103446e+17,TAFE,Delivery (teaching),2012,Retirement,False,False,False,True,False,False,False,False,Female,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34811063824844e+17,TAFE,Delivery (teaching),2012,Resignation,False,True,False,False,False,False,False,False,Male,41-45,Temporary Full-time,Teacher (including LVT),New,False
+6.34811069432813e+17,TAFE,Non-Delivery (corporate),2012,Transfer,False,False,False,False,False,False,True,False,Male,26-30,Temporary Full-time,Administration (AO),Experienced,False
+6.34812805553281e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,False,False,True,False,False,Female,21-25,Permanent Full-time,Administration (AO),New,True
+6.34813581041094e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,True,False,False,False,False,False,False,Female,26-30,Temporary Full-time,Administration (AO),New,False
+6.34816502884375e+17,TAFE,Delivery (teaching),2012,Resignation,False,True,False,False,False,False,False,False,Male,36-40,Temporary Full-time,Administration (AO),New,False
+6.3481720866375e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,True,False,False,False,True,True,False,Female,21-25,Temporary Full-time,Administration (AO),New,False
+6.34823973840625e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,True,False,False,False,False,False,False,Male,21-25,Casual,Administration (AO),New,False
+6.34825003759375e+17,TAFE,Delivery (teaching),2013,Resignation,False,False,True,False,False,False,False,False,Female,31-35,Permanent Part-time,Teacher (including LVT),Experienced,False
+6.348250791775e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,True,False,True,False,False,Female,20 or younger,Temporary Full-time,Administration (AO),Experienced,False
+6.34825691015156e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,True,False,False,False,False,True,False,Male,51-55,Temporary Full-time,Administration (AO),New,False
+6.34831756059375e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,True,False,False,False,False,False,False,Male,56-60,Temporary Full-time,Administration (AO),Experienced,False
+6.3483795741875e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,True,False,False,False,True,True,False,Female,26-30,Permanent Full-time,Administration (AO),Experienced,True
+6.34837984851406e+17,TAFE,Delivery (teaching),2012,Resignation,False,False,False,False,False,False,True,False,Female,56-60,Temporary Part-time,Teacher (including LVT),Experienced,False
+6.348438490525e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,False,False,False,True,False,Female,36-40,Temporary Part-time,Administration (AO),Veteran,False
+6.34849101152813e+17,TAFE,Delivery (teaching),2012,Resignation,False,True,False,False,False,False,False,False,Female,41-45,Temporary Part-time,Teacher (including LVT),New,False
+6.34852685801719e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,True,False,False,False,False,False,Male,21-25,Temporary Full-time,Administration (AO),New,False
+6.34854303307656e+17,TAFE,Delivery (teaching),2012,Retirement,False,False,False,False,False,False,False,True,Male,56-60,Casual,Teacher (including LVT),Veteran,False
+6.34854316269063e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,True,False,False,False,False,True,False,Male,46-50,Temporary Full-time,Operational (OO),New,False
+6.348543995725e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,False,False,False,True,False,Female,56-60,Permanent Part-time,Professional Officer (PO),Experienced,False
+6.34858682290312e+17,TAFE,Non-Delivery (corporate),2012,Retirement,False,False,False,False,False,False,False,True,Female,56-60,Permanent Part-time,Administration (AO),Veteran,False
+6.34860279552344e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,False,True,False,False,False,Male,51-55,Permanent Full-time,Administration (AO),Established,False
+6.34866546778594e+17,TAFE,Delivery (teaching),2012,Resignation,False,False,False,True,False,False,False,False,Male,36-40,Permanent Full-time,Teacher (including LVT),Established,False
+6.34867257481719e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,False,False,False,False,True,Female,31-35,Temporary Full-time,Professional Officer (PO),New,False
+6.34873325422656e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,True,False,False,False,False,False,False,Female,36-40,Permanent Full-time,Administration (AO),Established,False
+6.34874537800469e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,False,False,True,True,False,Female,36-40,Temporary Full-time,Administration (AO),New,False
+6.34878466942188e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,False,False,False,False,True,Female,26-30,Temporary Part-time,Administration (AO),New,False
+6.34880266652344e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,False,False,False,True,False,Female,31-35,Temporary Full-time,Administration (AO),New,False
+6.34884416485938e+17,TAFE,Delivery (teaching),2012,Resignation,False,False,False,False,False,True,False,False,Female,46-50,Permanent Full-time,Teacher (including LVT),Experienced,False
+6.3488615834625e+17,TAFE,Delivery (teaching),2012,Resignation,False,False,False,False,False,True,False,False,Male,31-35,Temporary Full-time,Teacher (including LVT),Experienced,False
+6.3488880224e+17,TAFE,Non-Delivery (corporate),2012,Resignation,True,False,False,False,False,True,False,False,Female,56-60,Temporary Full-time,Administration (AO),Experienced,False
+6.348897669125e+17,TAFE,Delivery (teaching),2013,Transfer,False,True,False,False,False,False,False,False,Male,46-50,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34889851025469e+17,TAFE,Delivery (teaching),2013,Resignation,False,False,True,False,False,False,False,False,Male,36-40,Permanent Full-time,Teacher (including LVT),Established,False
+6.34890472281094e+17,TAFE,Delivery (teaching),2012,Resignation,False,True,False,False,False,False,False,False,Male,46-50,Permanent Full-time,Teacher (including LVT),Established,False
+6.3489055184875e+17,TAFE,Delivery (teaching),2012,Resignation,False,True,False,False,False,False,False,False,Male,41-45,Temporary Full-time,Teacher (including LVT),New,False
+6.34892336760312e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,True,False,False,False,True,False,False,Female,21-25,Temporary Full-time,Administration (AO),Experienced,False
+6.34892361974219e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,False,False,False,False,False,True,False,Female,31-35,Temporary Part-time,Administration (AO),New,False
+6.34902770430459e+17,TAFE,Delivery (teaching),2013,Resignation,False,True,False,False,False,False,False,False,Male,41-45,Temporary Full-time,Teacher (including LVT),New,False
+6.34903651349219e+17,TAFE,Delivery (teaching),2012,Resignation,False,False,False,False,False,False,True,False,Male,51-55,Permanent Part-time,Teacher (including LVT),Experienced,False
+6.34907124987812e+17,TAFE,Delivery (teaching),2012,Resignation,False,True,False,False,False,True,False,False,Female,51-55,Permanent Full-time,Teacher (including LVT),Established,False
+6.34907915528428e+17,TAFE,Delivery (teaching),2013,Retirement,False,False,False,False,False,False,False,True,Female,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.34908638162969e+17,TAFE,Non-Delivery (corporate),2012,Resignation,False,True,False,False,False,True,False,False,Female,21-25,Casual,Administration (AO),Experienced,False
+6.34908664012656e+17,TAFE,Non-Delivery (corporate),2013,Retirement,False,False,False,False,False,True,False,False,Female,56-60,Permanent Part-time,Administration (AO),Veteran,False
+6.34908792602334e+17,TAFE,Non-Delivery (corporate),2013,Transfer,False,False,False,False,False,False,True,False,Female,36-40,Permanent Part-time,Administration (AO),Established,False
+6.34908806102646e+17,TAFE,Non-Delivery (corporate),2013,Retirement,False,False,False,False,False,False,False,True,Male,56-60,Permanent Part-time,Professional Officer (PO),Veteran,False
+6.34908831659365e+17,TAFE,Delivery (teaching),2012,Resignation,False,False,True,False,False,False,False,False,Female,46-50,Temporary Part-time,Workplace Training Officer,New,False
+6.34932864696524e+17,TAFE,Delivery (teaching),2012,Resignation,False,True,True,False,False,False,False,False,Male,36-40,Permanent Full-time,Teacher (including LVT),Experienced,False
+6.34933010519531e+17,TAFE,Non-Delivery (corporate),2013,Resignation,False,False,False,False,False,False,True,False,Female,46-50,Permanent Full-time,Administration (AO),Established,False
+6.34938047980781e+17,TAFE,Non-Delivery (corporate),2013,Resignation,False,False,False,True,False,False,True,False,Female,41-45,Casual,Administration (AO),Experienced,False
+6.34938094787656e+17,TAFE,Delivery (teaching),2012,Resignation,False,False,False,False,False,True,False,False,Male,41-45,Permanent Full-time,Teacher (including LVT),Experienced,False
+6.34940601409024e+17,TAFE,Delivery (teaching),2013,Resignation,False,True,False,False,False,False,False,False,Female,56-60,Permanent Full-time,Teacher (including LVT),Experienced,False
+6.34945048175625e+17,TAFE,Delivery (teaching),2013,Resignation,False,False,False,False,True,False,True,False,Female,41-45,Permanent Part-time,Teacher (including LVT),Experienced,False
+6.34945136067187e+17,TAFE,Delivery (teaching),2013,Resignation,True,False,False,False,False,False,True,False,Female,36-40,Temporary Full-time,Teacher (including LVT),Experienced,False
+6.34951129892031e+17,TAFE,Delivery (teaching),2013,Resignation,False,False,False,False,False,False,False,True,Male,31-35,Permanent Full-time,Teacher (including LVT),Experienced,False
+6.34951997495625e+17,TAFE,Delivery (teaching),2013,Resignation,False,True,False,False,False,False,False,False,Female,46-50,Temporary Full-time,Teacher (including LVT),Experienced,False
+6.34958140455899e+17,TAFE,Non-Delivery (corporate),2013,Resignation,False,True,False,False,False,False,False,False,Male,46-50,Temporary Full-time,Administration (AO),Experienced,False
+6.34964112426563e+17,TAFE,Non-Delivery (corporate),2013,Resignation,False,True,False,False,False,False,False,False,Female,21-25,Temporary Full-time,Administration (AO),Experienced,False
+6.34969167674375e+17,TAFE,Delivery (teaching),2013,Resignation,False,False,False,True,False,True,True,False,Female,56-60,Permanent Part-time,Teacher (including LVT),Veteran,True
+6.34970182194493e+17,TAFE,Delivery (teaching),2013,Resignation,False,False,False,False,False,False,True,False,Male,51-55,Permanent Full-time,Teacher (including LVT),New,False
+6.34975184457305e+17,TAFE,Non-Delivery (corporate),2013,Resignation,False,False,False,False,False,False,False,False,Female,26-30,Casual,Administration (AO),New,True
+6.34975203429336e+17,TAFE,Non-Delivery (corporate),2013,Resignation,False,True,False,False,False,False,False,False,Male,20 or younger,Temporary Full-time,Administration (AO),New,False
+6.3497631483625e+17,TAFE,Delivery (teaching),2012,Resignation,False,True,False,False,False,True,False,False,Male,46-50,Permanent Full-time,Teacher (including LVT),Established,False
+6.34977079348281e+17,TAFE,Non-Delivery (corporate),2013,Resignation,True,False,False,False,False,False,False,False,Female,46-50,Temporary Full-time,Administration (AO),Experienced,False
+6.34982066598317e+17,TAFE,Delivery (teaching),2013,Resignation,False,True,False,False,False,False,False,False,Male,51-55,Permanent Full-time,Teacher (including LVT),Established,False
+6.34982246838125e+17,TAFE,Non-Delivery (corporate),2013,Retirement,False,False,False,False,True,False,True,False,Female,56-60,Permanent Part-time,Professional Officer (PO),Experienced,True
+6.34985719186563e+17,TAFE,Delivery (teaching),2013,Resignation,False,False,False,False,False,False,True,False,Male,51-55,Temporary Full-time,Teacher (including LVT),Experienced,False
+6.3499166642113e+17,TAFE,Delivery (teaching),2013,Resignation,False,True,False,False,False,True,False,False,Male,36-40,Temporary Full-time,Teacher (including LVT),New,False
+6.3499269435863e+17,TAFE,Delivery (teaching),2013,Resignation,False,True,False,False,False,False,False,False,Female,26-30,Temporary Part-time,Teacher (including LVT),New,False
+6.34995296716719e+17,TAFE,Non-Delivery (corporate),2013,Resignation,False,False,False,False,False,True,False,False,Female,51-55,Temporary Full-time,Administration (AO),New,False
+6.34998528620661e+17,TAFE,Non-Delivery (corporate),2013,Resignation,False,True,False,False,False,False,False,False,Female,46-50,Temporary Part-time,Administration (AO),New,True
+6.34999429878281e+17,TAFE,Non-Delivery (corporate),2013,Resignation,False,False,False,False,False,False,True,False,Female,41-45,Permanent Part-time,Administration (AO),Experienced,False
+6.35000251520036e+17,TAFE,Non-Delivery (corporate),2013,Resignation,False,True,False,False,False,True,False,False,Female,46-50,Permanent Full-time,Administration (AO),Experienced,False
+6.35004545579724e+17,TAFE,Delivery (teaching),2013,Retirement,False,False,False,False,False,False,False,True,Female,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.35005552776094e+17,TAFE,Delivery (teaching),2013,Retirement,False,False,False,False,False,False,False,True,Female,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.35010751412813e+17,TAFE,Delivery (teaching),2013,Retirement,False,False,False,True,False,False,False,False,Male,56-60,Permanent Full-time,Teacher (including LVT),Veteran,False
+6.35010822773594e+17,TAFE,Non-Delivery (corporate),2013,Resignation,False,False,False,False,False,False,True,False,Female,26-30,Temporary Full-time,Administration (AO),Experienced,False
+6.35012661372849e+17,TAFE,Delivery (teaching),2013,Resignation,False,False,False,False,False,True,False,False,Female,46-50,Temporary Full-time,Teacher (including LVT),New,False
+6.35017508419688e+17,TAFE,Delivery (teaching),2013,Resignation,False,False,False,False,False,True,True,False,Male,51-55,Temporary Full-time,Teacher (including LVT),New,False
+6.35019417764844e+17,TAFE,Non-Delivery (corporate),2013,Resignation,True,False,False,False,False,False,False,False,Female,41-45,Casual,Administration (AO),New,False
+6.35021852425625e+17,TAFE,Non-Delivery (corporate),2013,Resignation,False,False,False,False,False,False,True,False,Female,36-40,Temporary Full-time,Administration (AO),New,False
+6.35025280694687e+17,TAFE,Non-Delivery (corporate),2013,Resignation,False,True,False,False,False,False,False,False,Male,51-55,Permanent Full-time,Administration (AO),Experienced,False
+6.35027942448125e+17,TAFE,Non-Delivery (corporate),2013,Resignation,False,False,False,True,False,False,False,False,Female,56-60,Temporary Part-time,Operational (OO),New,False
+6.35031425678438e+17,TAFE,Non-Delivery (corporate),2013,Resignation,False,False,False,False,False,False,True,False,Female,26-30,Temporary Full-time,Administration (AO),New,False
+6.35035655232813e+17,TAFE,Non-Delivery (corporate),2013,Resignation,True,False,False,False,False,False,False,False,Female,26-30,Permanent Part-time,Administration (AO),New,False
+6.35037423338906e+17,TAFE,Non-Delivery (corporate),2013,Resignation,False,False,False,False,False,False,True,False,Female,41-45,Temporary Full-time,Administration (AO),New,False
+6.35037453598125e+17,TAFE,Non-Delivery (corporate),2013,Resignation,True,False,False,False,False,False,False,False,Male,41-45,Casual,Administration (AO),Experienced,False
+6.35040151398125e+17,TAFE,Non-Delivery (corporate),2013,Resignation,False,False,False,False,False,True,False,False,Female,26-30,Temporary Full-time,Technical Officer (TO),New,False
+6.3504256585625e+17,TAFE,Non-Delivery (corporate),2013,Resignation,True,False,False,False,False,False,False,False,Female,41-45,Temporary Full-time,Administration (AO),Experienced,False
+6.35047878104375e+17,TAFE,Non-Delivery (corporate),2013,Resignation,False,False,False,False,False,False,False,True,Female,46-50,Permanent Part-time,Professional Officer (PO),Experienced,False
+6.3504798376125e+17,TAFE,Delivery (teaching),2013,Resignation,False,False,False,True,False,True,False,False,Male,41-45,Permanent Full-time,Teacher (including LVT),New,False
+6.35049585605e+17,TAFE,Non-Delivery (corporate),2013,Resignation,False,False,False,True,False,False,False,False,Female,56-60,Permanent Part-time,Operational (OO),Experienced,False
+6.35059949710781e+17,TAFE,Non-Delivery (corporate),2013,Resignation,False,True,False,False,False,False,False,False,Female,26-30,Temporary Full-time,Administration (AO),New,False
+6.35065973820625e+17,TAFE,Non-Delivery (corporate),2013,Resignation,False,True,False,False,False,False,False,False,Male,21-25,Temporary Full-time,Operational (OO),Experienced,False
+6.35066785175197e+17,TAFE,Delivery (teaching),2013,Resignation,True,False,False,False,False,False,False,False,Male,51-55,Temporary Full-time,Teacher (including LVT),New,False
+6.35070442972541e+17,TAFE,Delivery (teaching),2013,Resignation,False,False,False,False,False,False,True,False,Female,51-55,Permanent Full-time,Teacher (including LVT),Experienced,False
+6.35073030973791e+17,TAFE,Non-Delivery (corporate),2013,Resignation,False,False,True,False,False,False,False,False,Female,26-30,Casual,Administration (AO),Experienced,True
